@@ -6,8 +6,8 @@ We will create effective dashboard using Power BI with SQL integration, SQL help
 Problem statement:
   
 The scenario of the project is business owner of hardware company wants to determine and evaluate the sales trends all over the Indian branches situated in different zones.
-sales of hardware products are decreases per year from 2017. so, to predict and describe the sales trends they gather the data from owners of different branches.
-They have the data in excel speadsheet and thats not efficient and easy to understand for that data analysis should be need. 
+sales of hardware products are decreases per year from 2017. so, he wanted predict and describe the sales trends. They gather the data from owners of different branches.
+They have the data in excel speadsheet and thats not efficient and easy to understand for that data analysis should be beneficial.
   
 
 Data Analysis Using SQL
@@ -48,7 +48,7 @@ SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON trans
 
 SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.market_code="Mark001";
 
-<h2> Data Analysis Using Power BI
+Data Analysis Using Power BI
  The company also provide there hardware products to out-off country have foreign customers.so, at some rows the sales amount are in USD. we should convert all USD currency into INR.
   
 Formula to create norm_amount column
