@@ -1,3 +1,4 @@
+
 # Sales-Analysis-using-Power-BI
 
 We will create effective dashboard using Power BI with SQL integration, SQL helps to extraction of data from the data-warehouse which data engineers does there queries to manupulate the data in effective format. In SQL we can do analysis and proper data cleaning. Power BI is great tool to visualize our data in effective ways and its very easy to understand various sales trends per regions in india.
@@ -8,7 +9,10 @@ Problem statement:
 The scenario of the project is business owner of hardware company wants to determine and evaluate the sales trends all over the Indian branches situated in different zones.
 sales of hardware products are decreases per year from 2017. so, he wanted predict and describe the sales trends. They gather the data from owners of different branches.
 They have the data in excel speadsheet and thats not efficient and easy to understand for that data analysis should be beneficial.
-  
+ 
+Power BI Dashboard:
+
+![Uploading sales trends.jpg…]()
 
 Data Analysis Using SQL
   
