@@ -1,6 +1,8 @@
 
 # Sales-Analysis-using-Power-BI
 
+Refer link - https://app.powerbi.com/groups/me/reports/02b4cda0-820e-41c1-9c09-78014b8d9f88/ReportSection
+
 We will create effective dashboard using Power BI with SQL integration, SQL helps to extraction of data from the data-warehouse which data engineers does there queries to manupulate the data in effective format. In SQL we can do analysis and proper data cleaning. Power BI is great tool to visualize our data in effective ways and its very easy to understand various sales trends per regions in india.
 
 
